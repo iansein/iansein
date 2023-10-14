@@ -10,7 +10,7 @@
 - 💻 I’m currently open for a new job opportunity, this is [my resume](https://read.cv/iansein)
 - 👯 I’m looking to collaborate on projects
 - 💬 Ask me about for any help
-<br> <br> <br>
+<br> <br> <br> <br> <br> <br> <br> <br> <br>
 <hr>
 
 ## ⭐ &nbsp;Skills
