@@ -1,7 +1,7 @@
 # Hello, I'm Ian Sein!
 [![GitHub followers](https://img.shields.io/github/followers/iansein?style=social)](https://github.com/iansein)
 
-<p align: center">
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=2F329C&vCenter=true&random=false&width=435&lines=Full-Stack+Web+Developer" alt="Typing SVG"/>
 </p>
 
