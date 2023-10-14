@@ -6,8 +6,10 @@
  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" align="right" height="300" width="500">
 
 - 📚 Currently learning Web Development
-- 👾 Personal website [link](iansein.netlify.app)
+- 👨‍💻 Personal website [link](iansein.netlify.app)
 - 💻 I’m currently open for a new job opportunity, this is [my resume](https://read.cv/iansein)
+- 👯 I’m looking to collaborate on projects
+- 💬 Ask me about for any help
 <br> <br> <br>
 <hr>
 
