@@ -17,9 +17,11 @@
 📫 You can reach me at iansujas@gmail.com
 
 ⚡ I like Programming
+
+<hr>
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⭐ &nbsp;Skills
 <span> <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </span>
 <span> <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </span>
 <span> <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </span>
