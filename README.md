@@ -5,19 +5,12 @@
  ##  **About me** <picture><img src = "https://user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif" width = 50px></picture>
  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" align="right" height="300" width="500">
 
-👾 I’m currently learning NodeJs, React, MongoDB
+- 🎓 Studies for Software Engineering at London Metropolitan University
+- 📚 Currently learning Web Development
+- Personal website [link](iansein.netlify.app)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/iansein)
 
-👯 I’m looking to collaborate on different projects
-
-👨‍💻 All of my projects are available at iansein.com
-
-📝 I actively post on LinkedIn: https://www.linkedin.com/in/ian-sein/
-
-👀 Ask me about HTML, CSS, JavaScript, React.
-
-📫 You can reach me at iansujas@gmail.com
-
-⚡ I like Programming
+- 
 <br> <br> <br>
 <hr>
 
