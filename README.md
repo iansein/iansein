@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello!
+ <!-- Profile views -->
+ <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" align="right" height="300">
+ 
+ <p align="left">My name is Ian Sein and I'm a Fullstack Web Developer.
+  
+  I'm from Argentina, Buenos Aires.
 
-<!--
-**iansein/iansein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning NodeJs, React, MongoDB
+
+👯 I’m looking to collaborate on different projects
+
+👨‍💻 All of my projects are available at iansein.com
+
+📝 I actively post on LinkedIn: https://www.linkedin.com/in/ian-sein/
+
+👀 Ask me about HTML, CSS, JavaScript, React.
+
+📫 You can reach me at iansujas@gmail.com
+
+⚡ I like Programming
+
+<br>
