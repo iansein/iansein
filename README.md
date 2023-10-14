@@ -19,7 +19,6 @@
 ⚡ I like Programming
 
 <hr>
-
 ## ⭐ &nbsp;Skills
 <span> <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </span>
 <span> <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </span>
