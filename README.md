@@ -1,10 +1,6 @@
 <div align="center">
 <h1 align="center" display="inline">Hello, I'm Ian Sein <picture> <img src = "https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width = 50px height = 40px></picture> </h1>
 </div>
-<p align="center">
-  <a href="https://github.com/iansein"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/iansein?color=2F329C&style=for-the-badge&logo=github&logoColor=2F329C&label=Follow"/></a>
-  <a href="https://www.linkedin.com/in/ian-sein/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href="mailto:iansujas@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a> </p>
   <br> <br>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=2F329C&random=false&width=435&lines=Full-Stack+Web+Developer" alt="Typing SVG" />
@@ -34,8 +30,14 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=iansein&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="200" width="800"/>
 </p>
+<br>
+<br>
+<br>
 
-
-<br>
-<br>
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ian-sein/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ian Sein" height="30" width="40" /></a>
+<a href="https://discord.gg/fpUtBrbKU5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
+<a href="https://twitter.com/andersonmr5302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andermendoza" height="30" width="40" /></a>
+<a href="https://instagram.com/anderson_mend53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
+</p>
