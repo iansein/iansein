@@ -3,7 +3,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7000CA&random=false&width=435&lines=Full-Stack+Web+Developer" alt="Typing SVG" /></a>
 
- ##  **About me** <picture><img src = "https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width = 50px></picture>
+ ##  **About me** <picture><img src = "https://user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif" width = 50px></picture>
  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" align="right" height="300" width="500">
 
 👾 I’m currently learning NodeJs, React, MongoDB
