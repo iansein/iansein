@@ -29,8 +29,6 @@
 ## My Stats <picture><img src = "https://user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif" width = 50px height = 40px></picture>
 <img src="https://github-readme-stats.vercel.app/api?username=iansein&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="200" width="800"/>
 <br>
-<br>
-<br>
 
  ##  **Connect with me** <picture><img src = "https://user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif" width = 50px height = 40px></picture>
 <p align="left">
