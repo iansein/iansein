@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hello, I'm Ian Sein 👋🏻</h1>
+<h1 align="center">Hello, I'm Ian Sein 👋🏻</h1> <picture><img src = "https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width = 50px height = 40px></picture>
 </div>
   <a href="https://github.com/iansein"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/iansein?color=2F329C&style=for-the-badge&logo=github&logoColor=2F329C&label=Follow"/></a>
   <a href="https://www.linkedin.com/in/ian-sein/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
