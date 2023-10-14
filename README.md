@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I'm Ian Sein 👋🏻</h1>
 </div>
   <p align="center">
-  <a href="https://github.com/iansein"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/iansein?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/iansein"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/iansein?color=white&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://www.linkedin.com/in/ian-sein/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="mailto:iansujas@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   </p>
