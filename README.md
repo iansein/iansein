@@ -19,7 +19,7 @@
 <br> <br> <br>
 
  ##  **Skills** <picture><img src = "https://user-images.githubusercontent.com/74038190/243199547-42077049-1939-493e-9a19-47ca5db36643.gif" width = 50px height = 40px></picture>
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,express,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=html,css,js,express,nodejs,mongodb,jest,vscode,github,"> </a> </p>
 <br> <br> <br>
 
 ## My Stats:
