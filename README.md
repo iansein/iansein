@@ -7,7 +7,7 @@
 
 - 📚 Currently learning Web Development
 - 👾 Personal website [link](iansein.netlify.app)
-- 💻 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/iansein)
+- 💻 I’m currently open for a new job opportunity, this is [my resume](https://read.cv/iansein)
 <br> <br> <br>
 <hr>
 
