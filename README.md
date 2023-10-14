@@ -7,8 +7,8 @@
 
 - 🎓 Studies for Software Engineering at London Metropolitan University
 - 📚 Currently learning Web Development
-- Personal website [link](iansein.netlify.app)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/iansein)
+- 👾 Personal website [link](iansein.netlify.app)
+- 🧑‍💻 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/iansein)
 
 - 
 <br> <br> <br>
