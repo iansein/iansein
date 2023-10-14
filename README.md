@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on projects
   
 - 💬 Ask me about for any help
-<br> <br> <br> <br> <br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br> <br>
 <hr>
 
 ## ⭐ &nbsp;Skills
