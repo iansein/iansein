@@ -35,7 +35,7 @@
 <span> <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </span>
 <br> <br> <br>
 
-## 📊 <b> Github Stats </b>
+ ##  **Github Stats** <picture><img src = "https://user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif" width = 50px></picture>
 <br>
 
 <div align="center">
