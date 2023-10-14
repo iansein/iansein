@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/ian-sein/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="mailto:iansujas@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   </p>
+  <br> <br> <br>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=2F329C&random=false&width=435&lines=Full-Stack+Web+Developer" alt="Typing SVG" />
 </p>
