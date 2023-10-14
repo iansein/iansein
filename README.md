@@ -1,4 +1,7 @@
-# Hello, I'm Ian Sein!
+<div align="center">
+<h1 align="center">Hello, I'm Ian Sein 👋</h1>
+</div>
+
 [![GitHub followers](https://img.shields.io/github/followers/iansein?style=social)](https://github.com/iansein)
   <a href="https://www.linkedin.com/in/ian-sein/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.youtube.com/c/Thinkright20"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
