@@ -1,11 +1,9 @@
 <div align="center">
 <h1 align="center">Hello, I'm Ian Sein 👋🏻</h1>
 </div>
-  <p align="center">
   <a href="https://github.com/iansein"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/iansein?color=2F329C&style=for-the-badge&logo=github&logoColor=2F329C&label=Follow"/></a>
   <a href="https://www.linkedin.com/in/ian-sein/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="mailto:iansujas@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  </p>
   <br> <br>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=2F329C&random=false&width=435&lines=Full-Stack+Web+Developer" alt="Typing SVG" />
