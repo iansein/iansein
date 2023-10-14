@@ -35,7 +35,9 @@
 <span> <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </span>
 <span> <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </span>
 
-### ⚙️ &nbsp;GitHub Analytics
+<br>
+
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/iansein">
