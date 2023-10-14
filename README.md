@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hello, I'm Ian Sein 👋</h1>
+<h1 align="center">Hello, I'm Ian Sein 👋🏻</h1>
 </div>
 
 [![GitHub followers](https://img.shields.io/github/followers/iansein?style=social)](https://github.com/iansein)
