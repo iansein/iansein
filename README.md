@@ -36,17 +36,11 @@
 <span> <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'> </span>
 <br> <br> <br>
 
- ##  **Github Stats** <picture><img src = "https://user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif" width = 50px height = 40px></picture>
-<br>
+## My Stats:
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Thinkright20&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
 
-<div align="center">
-
-<a href="https://github.com/iansein/">
-  <img src="https://github-readme-stats.vercel.app/api?username=iansein&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iansein&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="iansein"/>
-
-</a>
-</div>
 
 <br>
 <br>
