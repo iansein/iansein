@@ -1,11 +1,11 @@
 <div align="center">
 <h1 align="center">Hello, I'm Ian Sein 👋🏻</h1>
 </div>
-
+  <p align="center">
   <a href="https://github.com/iansein"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/iansein?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://www.linkedin.com/in/ian-sein/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/Thinkright20"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://ko-fi.com/chatcool"><img alt="Kofi" title="Kofi" src="https://img.shields.io/badge/-Kofi-ff7389?style=for-the-badge&logo=kofi&logoColor=white"/></a>
+   <a href="mailto:iansujas@gmail.com"><img src="https://img.shields.io/badge/-iansujas@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  </p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=2F329C&random=false&width=435&lines=Full-Stack+Web+Developer" alt="Typing SVG" />
 </p>
