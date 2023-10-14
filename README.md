@@ -37,7 +37,6 @@
 <span> <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </span>
 
 <hr>
-<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
