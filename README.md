@@ -23,7 +23,7 @@
 <br> <br> <br>
 
  ##  **Skills** <picture><img src = "https://user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif" width = 50px height = 40px></picture>
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,angular,express,nodejs,mongodb,firebase,jest,vscode,github,git,linux"> </a> </p>
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,angular,express,nodejs,mongodb,firebase,jest,vscode,github,git,linux,C#"> </a> </p>
 <br>
 
 ## My Stats <picture><img src = "https://user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif" width = 50px height = 40px></picture>
